@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PruebaTecnica", "PruebaTecnica\PruebaTecnica.csproj", "{DDE9374E-38AF-49D1-8A91-8DD8AC06F9BC}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SetupPrueba", "SetupPrueba\SetupPrueba.vdproj", "{6DA07156-EEA8-453C-AEA2-76AB59ABC879}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDE9374E-38AF-49D1-8A91-8DD8AC06F9BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDE9374E-38AF-49D1-8A91-8DD8AC06F9BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDE9374E-38AF-49D1-8A91-8DD8AC06F9BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDE9374E-38AF-49D1-8A91-8DD8AC06F9BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DA07156-EEA8-453C-AEA2-76AB59ABC879}.Debug|Any CPU.ActiveCfg = Debug
+		{6DA07156-EEA8-453C-AEA2-76AB59ABC879}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
